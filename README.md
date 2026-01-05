@@ -1,3 +1,5 @@
+![AWS Badge](https://img.shields.io/badge/AWS-Cloud-orange)
+
 # HighAvailability-WebApp
 High-Availability Multi-AZ Web Application Deployment on AWS using EC2, RDS, and Elastic Load Balancing
 
