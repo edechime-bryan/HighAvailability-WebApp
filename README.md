@@ -15,7 +15,7 @@ A growing e-commerce application must handle unpredictable traffic and ensure un
 ## Architecture Overview
 **Services Used:** EC2, Auto Scaling Group, Elastic Load Balancing, Security Groups, Cloudfront, Cloudwatch, Relational Database Service (RDS)
 
-**Diagram / Screenshot Placeholder:**  
+**Architecture Diagram:**  
 ![Architecture Diagram](images/architecture.png)
 
 ---
